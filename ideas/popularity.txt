@@ -1,0 +1,21 @@
+
+
+empirically determine pop of movie
+
+
+
+- check that it works by seeing if how certain movies stack up against each other
+    - something like minions cannot be more popular than endgame
+        - maybe it can if you use age as a strata
+
+- have to consider that you are living and analyzing things in a bubble
+	- maybe endgame was only popular among your strata, not 0-14 yrs, or 40-60 yrs
+
+- opening day box office might be good sign of pop, also budget since they can put more money into advertising
+	- to be more exact, get data of opening box office by age range - dataset does not have, try boxofficemojo?
+
+
+- use tmdb popularity feature and plot with budget and gross, try to add weights to the budget and gross to match up with tmdbs vs gross trendline
+
+
+
